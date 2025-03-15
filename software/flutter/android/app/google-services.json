@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "317054393014",
+    "project_id": "payment-app-7922b",
+    "storage_bucket": "payment-app-7922b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317054393014:android:7146aafb2ca66583a8e417",
+        "android_client_info": {
+          "package_name": "com.example.alzheimer_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317054393014-f6n89d7nitdlkbnoh7s35f8mncv783i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8y3Unyj1BxowXKtvwEMQpHmb3yHu43pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317054393014-f6n89d7nitdlkbnoh7s35f8mncv783i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317054393014:android:4ac6a8ad88cab135a8e417",
+        "android_client_info": {
+          "package_name": "com.example.trans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317054393014-f6n89d7nitdlkbnoh7s35f8mncv783i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8y3Unyj1BxowXKtvwEMQpHmb3yHu43pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317054393014-f6n89d7nitdlkbnoh7s35f8mncv783i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

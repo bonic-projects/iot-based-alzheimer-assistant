@@ -1,0 +1,2 @@
+C:/Users/hp/AndroidStudioProjects/alzheimer_assist/android/app/.cxx/RelWithDebInfo/146q1c27/x86/CMakeFiles/edit_cache.dir
+C:/Users/hp/AndroidStudioProjects/alzheimer_assist/android/app/.cxx/RelWithDebInfo/146q1c27/x86/CMakeFiles/rebuild_cache.dir
